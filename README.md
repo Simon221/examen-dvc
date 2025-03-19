@@ -1,10 +1,3 @@
-# Mes informations Personnelles
-* Nom : DIOUF
-* Prenom : Simon Pierre
-* Email : simonpierre.diouf@orange-sonatel.com
-* Lien Repo : https://dagshub.com/vtsen221/examen-dvc 
-
-
 # Examen DVC et Dagshub
 Dans ce dépôt vous trouverez l'architecture proposé pour mettre en place la solution de l'examen. 
 
