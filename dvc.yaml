@@ -4,7 +4,7 @@ stages:
     deps:
     - data/raw_data/raw.csv
     - src/data/data_split.py
-    - src/models/params.yaml
+    - src/data/params.yaml
     outs:
     - data/processed_data/X_test.csv
     - data/processed_data/X_train.csv
