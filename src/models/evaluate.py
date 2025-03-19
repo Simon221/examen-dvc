@@ -50,11 +50,11 @@ def evaluate(my_model, X_test_scaled, y_test ,output_folder, output_metrics) :
             
         
         # Log parameters and metrics using the MLflow APIs
-        mlflow.set_tracking_uri("http://127.0.0.1:8080")
-        signature = infer_signature(X_test_scaled, prediction)
-        best_params = joblib.load("models/best_params.pkl")
-        mlflow.log_params(best_params)
-        mlflow.log_metrics(metrics)
+        # mlflow.set_tracking_uri("http://127.0.0.1:8080")
+        # signature = infer_signature(X_test_scaled, prediction)
+        # best_params = joblib.load("models/best_params.pkl")
+        # mlflow.log_params(best_params)
+        # mlflow.log_metrics(metrics)
 
         # Log the sklearn model and register as version 1
         mlflow.sklearn.log_model(
