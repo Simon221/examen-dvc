@@ -3,4 +3,4 @@
 dvc_env/
 data/processed_data/
 data/raw_data/
-/models
+models
