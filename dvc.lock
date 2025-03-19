@@ -17,3 +17,11 @@ stages:
       hash: md5
       md5: 38e9f56c92d20ee33257e3918c901e7e
       size: 183322
+    - path: data/processed_data/y_test.csv
+      hash: md5
+      md5: e064ea83fe860a49b9e9cfab1e8ec5a7
+      size: 9697
+    - path: data/processed_data/y_train.csv
+      hash: md5
+      md5: 4f1097f0b9053f0a94904c047541877f
+      size: 22710
