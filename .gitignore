@@ -2,3 +2,4 @@
 /clean_data.csv
 dvc_env/
 data/processed_data/
+data/raw_data/
