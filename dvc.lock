@@ -80,3 +80,27 @@ stages:
       hash: md5
       md5: d7b2a32d4bdae93308e2dc25545537ba
       size: 115
+  training:
+    cmd: python src/models/training.py
+    deps:
+    - path: data/processed_data/X_train_scaled.csv
+      hash: md5
+      md5: 41c0d8ca5d92b44b00b18db4d7d6db9d
+      size: 198675
+    - path: data/processed_data/y_train.csv
+      hash: md5
+      md5: 4f1097f0b9053f0a94904c047541877f
+      size: 22710
+    - path: models/best_params.pkl
+      hash: md5
+      md5: d7b2a32d4bdae93308e2dc25545537ba
+      size: 115
+    - path: src/models/training.py
+      hash: md5
+      md5: c25ef9eddb961cfac011d2e92c63f33a
+      size: 1212
+    outs:
+    - path: models/gbr_model.pkl
+      hash: md5
+      md5: 865de2bdbeeed04c8a7c3a274c0bc9b1
+      size: 232540
