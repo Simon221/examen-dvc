@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e335cc18f771412cbd16286b0709f16a/artifacts
+end_time: 1742406579941
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e335cc18f771412cbd16286b0709f16a
+run_name: orderly-sheep-401
+run_uuid: e335cc18f771412cbd16286b0709f16a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742406575552
+status: 3
+tags: []
+user_id: ubuntu

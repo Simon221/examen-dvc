@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1742406504942
+current_stage: None
+description: ''
+last_updated_timestamp: 1742406504942
+name: silica_concentrate_model_V1
+run_id: 9f1fa68b1a6d4dc6b71e828e33df3ce8
+run_link: ''
+source: mlflow-artifacts:/0/9f1fa68b1a6d4dc6b71e828e33df3ce8/artifacts/silica_concentrate
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/9f1fa68b1a6d4dc6b71e828e33df3ce8/artifacts/silica_concentrate
+user_id: null
+version: 1

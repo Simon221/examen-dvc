@@ -1,5 +1,5 @@
 {
-    "Mean Squared Error (MSE)": 0.8365427417034078,
-    "Root Mean Squared Error (RMSE)": 0.914627105274826,
-    "R\u00b2 Score": 0.21841011019992085
+    "Mean_Squared_Error": 0.8365427417034078,
+    "Root_Mean_Square_Error": 0.914627105274826,
+    "R_carre_Score": 0.21841011019992085
 }

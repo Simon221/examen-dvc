@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9f1fa68b1a6d4dc6b71e828e33df3ce8/artifacts
+end_time: 1742406504950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f1fa68b1a6d4dc6b71e828e33df3ce8
+run_name: angry-fawn-257
+run_uuid: 9f1fa68b1a6d4dc6b71e828e33df3ce8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742406500885
+status: 3
+tags: []
+user_id: ubuntu

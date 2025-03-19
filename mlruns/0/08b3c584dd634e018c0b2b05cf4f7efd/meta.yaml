@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/08b3c584dd634e018c0b2b05cf4f7efd/artifacts
+end_time: 1742406192938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08b3c584dd634e018c0b2b05cf4f7efd
+run_name: calm-wolf-557
+run_uuid: 08b3c584dd634e018c0b2b05cf4f7efd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742406192902
+status: 4
+tags: []
+user_id: ubuntu
