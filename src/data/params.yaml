@@ -1,0 +1,6 @@
+gradient_boosting:
+  n_estimators: [50, 100] # Nombre d'arbres
+  max_depth: [3, 5]  # Profondeur max
+  learning_rate: [0.01, 0.1] # Taux d'apprentissage
+  min_samples_split: [2, 5] # Nombre min d'échantillons pour splitter un nœud
+  min_samples_leaf: [1, 2] # Nombre min d’échantillons par feuille
